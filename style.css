@@ -1,0 +1,47 @@
+.dicaprio{
+
+     background-image: url(media/1.jpg);
+     width: 397px;
+     height: 600px;
+     animation-name:dicaprio;
+       animation-duration:25s;
+       animation-delay: 3s;
+       animation-iteration-count:3;
+    }
+
+    @keyframes dicaprio {
+            
+      0%{
+          background-image: url(media/1.jpg);
+
+       }
+       16%{
+        background-image: url(media/2.png);
+
+     }
+
+      32%{
+      background-image: url(media/3.png);
+
+    }
+
+     48%{
+    background-image: url(media/4.png);
+
+   }
+
+    64%{
+     background-image: url(media/5.png);
+
+  }
+  80%{
+    background-image: url(media/6.png);
+
+ }
+
+ 100%{
+  background-image: url(media/1.jpg);
+
+}
+
+}
