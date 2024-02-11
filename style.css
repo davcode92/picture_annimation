@@ -1,6 +1,6 @@
 .dicaprio{
 
-     background-image: url(media/1.jpg);
+     background-image: url(media/kyky1.jpg);
      width: 397px;
      height: 600px;
      animation-name:dicaprio;
@@ -12,35 +12,35 @@
     @keyframes dicaprio {
             
       0%{
-          background-image: url(media/1.jpg);
+          background-image: url(media/kyky1.jpg);
 
        }
        16%{
-        background-image: url(media/2.png);
+        background-image: url(media/kyky2.jpg);
 
      }
 
       32%{
-      background-image: url(media/3.png);
+      background-image: url(media/kyky3.jpg);
 
     }
 
      48%{
-    background-image: url(media/4.png);
+    background-image: url(media/kyky4.jpg);
 
    }
 
     64%{
-     background-image: url(media/5.png);
+     background-image: url(media/kyky5.jpg);
 
   }
   80%{
-    background-image: url(media/6.png);
+    background-image: url(media/kyky6.jpg);
 
  }
 
  100%{
-  background-image: url(media/1.jpg);
+  background-image: url(media/kyky1.jpg);
 
 }
 
